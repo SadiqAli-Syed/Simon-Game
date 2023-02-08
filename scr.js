@@ -24,7 +24,27 @@ function start(){
     $("#blue").click(function(){
         EventListener("blue", blue, randomChosenColour);
     })
-    $("#btn").click(function(){
+}
+function EventListener(colorName, color, randomChosenColour){
+    
+    if (randomChosenColour == colorName){
+        color.play();
+        $("#" + colorName).fadeOut().fadeIn();
+        $("#p").append("<button id='btn1'> <h2> Play again!</h2></button>");
+        $("#p").append("<h2 id='h'>That was Correct!</h2> ");
+    }
+    else {
+        wrong.play();
+        $("#p").append("<button id='btn1'> <h2> Play again!</h2></button>");
+        $("#p").append("<h2 id='h'>That was Correct!</h2> ");
+    }
+    $("#btn1").click(function(){
+        $("#btn1").remove();
+        $("#btn2").remove();
+        $("h2").remove();
+        start();
+    })
+    $("#btn1").click(function(){
         alert("Removing");
         $("#btn1").remove();
         $("#btn2").remove();
@@ -32,16 +52,6 @@ function start(){
         start();
     })
 }
-function EventListener(colorName, color, randomChosenColour){
-    
-    if (randomChosenColour == colorName){
-        color.play();
-        $("#" + colorName).fadeOut().fadeIn();
-        $("#p").append("<h1 id='h'>That was Correct!</h1> <button id='btn1'> Play again!</button>");
-    }
-    else {
-        wrong.play();
-        $("#p").append("<h1 id='H'>That was Incorrect!</h1> <button id='btn2'> Try again?</button>");
-    }
-}
+
+// Kindalu Starts Here
 start();
