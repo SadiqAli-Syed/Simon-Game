@@ -1,10 +1,10 @@
 var divColors = ["red", "green", "yellow", "blue"];
 
-var red    = new Audio("sounds/red.mp3");
-var green  = new Audio("sounds/green.mp3");
-var yellow = new Audio("sounds/yellow.mp3");
-var blue   = new Audio("sounds/blue.mp3");
-var wrong  = new Audio("sounds/wrong.mp3");
+var red    = new Audio("DJ DJ Sounds/red.mp3");
+var green  = new Audio("DJ DJ Sounds/green.mp3");
+var yellow = new Audio("DJ DJ Sounds/yellow.mp3");
+var blue   = new Audio("DJ DJ Sounds/blue.mp3");
+var wrong  = new Audio("DJ DJ Sounds/wrong.mp3");
 
 
 
