@@ -2,9 +2,9 @@ body{
     background-color: darkslategrey;
 }
 
-.p{
+#p{
     width: 32rem;
-    height:32rem;
+    height:30rem;
     margin:auto;
     vertical-align: middle;
     font-size: 0;
@@ -16,27 +16,27 @@ body{
     border-style: solid;
     border-width: 1rem;
     border-radius: 2rem;
-    margin: 1rem 1rem;
+    margin: 1rem 1rem 0;
     
     
 }
 .i{
     width: 16rem;
-    height:32rem;
+    height:30rem;
     display: inline-block;
     margin:0;
     padding:0;
 }
-#a{
+#green{
     background-color:green;
 }
-#b{
+#red{
     background-color:red ;
 }
-#c{
+#yellow{
     background-color:yellow ;
 }
-#d{
+#blue{
     background-color: blue;
 }
 h1{
@@ -47,6 +47,25 @@ h1{
     text-align: center;
     text-shadow: 2px 1px #ff0000;
     
+}
+h2{
+    font-size:2.5rem;
+    font-family: 'Press Start 2P', cursive;
+    color:red;
+    margin-top: 2rem;
+    text-align: center;
+    text-shadow: 2px 1px 5px #000000;   
+}
+#btn2,#btn1{
+    height:2.3rem;
+    width:5.5rem;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    background-color:aqua;
+    color: azure;
+    margin-top:1rem;
 }
 
 
