@@ -15,3 +15,22 @@
                                                                           
                                                                           
      P.S.:Evening lofala Pix avvakunte 90 esi faduko mowa, Tanku Mowa.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                          -----|| PS of P.S.:Pixed Button appily:( ||-----
