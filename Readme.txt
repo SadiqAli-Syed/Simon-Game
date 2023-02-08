@@ -10,7 +10,7 @@
   
                                                                                 Tanku Mowa,
                                                                                    Itlu,
-                                                                          Appy Ga Padukunna Nenu.
+                                                                        Appy Ga Padukoni unna Nenu.
                                                                           
                                                                           
                                                                           
