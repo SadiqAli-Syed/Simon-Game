@@ -19,18 +19,4 @@
      
      
      
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-                                                          -----|| PS of P.S.:Pixed Button appily:( ||-----
+                         -----|| PS of P.S.:Pixed Button appily but the consecutive times its giving n+1 Buttons simultaneously :( ||-----
